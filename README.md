@@ -1,4 +1,5 @@
 视频： https://www.youtube.com/watch?v=SiIwSAIC458&list=PLXO45tsB95cIuXEgV-mvYWRd_hVC43Akk&index=4&ab_channel=%E8%8E%AB%E7%83%A6Python
+
 文字讲解： https://mofanpy.com/tutorials/data-manipulation/scraping/understand-website/
 
 
